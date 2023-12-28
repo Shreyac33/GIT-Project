@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 switching to the master branch
+=======
+switching to the second branch
+>>>>>>> project
