@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi this is git lab
 
+=======
+This is 3rd git lab
+>>>>>>> project
