@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 friday 29/2023
+=======
+new file
+>>>>>>> project
