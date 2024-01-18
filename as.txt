@@ -3,3 +3,7 @@ switching to the master branch
 =======
 switching to the second branch
 >>>>>>> project
+
+Date: 19/01/2024
+Day: Friday
+git lab from: 9:00am to 11:00am
