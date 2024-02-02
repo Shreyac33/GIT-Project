@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app="factapp">
+<head>
+    <title>Document</title>
+    <script src="angular.js"></script>
+</head>
+<body ng-controller="factcontroller">
+    <h2>factorial and square calculator</h2>
+Enter Number :
+<input type="number" ng-model="inputNumber">
+<button ng-click="calculatefact()">calculate Fact</button>
+<button ng-click="calculateSquare()">calculateSquare</button>
+
+<p ng-show="Fact result != undefined">factorial result : {{factREsult}}</p>
+<p ng-show="squareResult != undefined">square result : {{squareREsult}}</p>
+</body>
+<script>
+    angular.model('factApp')
+</script>
+</html>
